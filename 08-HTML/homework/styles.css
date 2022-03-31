@@ -1,59 +1,11 @@
-
 h1 {
-     color : red ;
-     background-color: burlywood ; 
- }
-h3{
-     background-color: burlywood;
- }
-h4 {
-    background-color: burlywood;
-}
-img {
-    width : 400px
- }
-#thirdDiv {
-    background-color: coral;
-    height : 600px ;
-    width : 500px; 
-    padding : 50px ;
-    border : 5px solid darkorange ; 
-    text-align:center ;
-    margin-left: auto;
-    margin-right: auto ;
+    color: orangered;
+    font-family: fantasy  ;
+    background-color :cyan  ;
     position: relative;
-     top: 30px;
-     left: 20px;
-     background-color: khaki;
-     width: 500px;
-     display: -webkit-flex;
-     display:         flex;
-     -webkit-align-items: center;
-             align-items: center;
-     -webkit-justify-content: center;
-             justify-content: center
- }
-#spanId {
-    font-size : 18px ;
-    margin: 50px  ;
-    text-align:center ;
-    background-color: chocolate;
- }
-body {
-    background-image: url('https://i.pinimg.com/736x/9f/13/2f/9f132ff4cf4c5368a1fca08aad881dca--phone-backgrounds-phone-wallpapers.jpg');
-}
-.divClass {
-    text-align:center;
-    position: relative;
-  top: center;
-  left: center;
-  width: center;
-  background-color: chocolate;
- 
-}
-.href{
- text-align: center ; 
- background-color: chocolate;
+    display: flex ;
+    justify-content: center ;
+    
 }
 
 
