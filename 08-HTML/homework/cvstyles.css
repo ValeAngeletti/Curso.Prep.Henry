@@ -1,0 +1,50 @@
+body{
+    background-color: lightsteelblue;
+}
+    
+h1{
+    font-family: serif;
+    color:darkblue ;
+    ;
+    
+    
+}
+
+h2{
+    text-decoration: underline;
+    color: blue;
+    background-color: cornflowerblue ;
+    
+}
+
+img{
+    display:flex ;
+    justify-content: center ;
+    align-items: center ; 
+    float : right ; 
+    min-height: 248px;
+    max-width: 253px;
+    margin-right: 360px;
+    margin-bottom: -5px;
+    margin-top: 4px;
+}
+
+.infopersonal {
+    
+    font-size: 19px;
+    
+}
+
+p{
+    text-indent: 22px;
+    font-size : 19px
+}
+
+li{
+    font-size : 19px
+}
+
+
+
+
+

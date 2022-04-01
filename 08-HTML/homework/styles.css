@@ -1,0 +1,54 @@
+h1 {
+    color: orangered;
+    font-family: fantasy  ;
+    background-color: darkgreen  ;
+    position: relative;
+    display: flex ;
+    justify-content: center ;
+    
+}
+h2{
+    
+    color: blue;
+    background-color: limegreen;
+    display: inline-block;
+    width: auto ;
+   
+}
+
+h3{
+    
+    color: blue;
+    background-color: limegreen ;
+    width: max-content ; 
+}
+
+span{
+    color: blue;
+    background-color: limegreen ; 
+
+}
+h4{
+    color: blue;
+    background-color: limegreen ; 
+    display: inline-block;
+    width: auto; 
+}
+a{
+    color: blue;
+    background-color: limegreen
+}
+img{
+    border: 3px solid black ;
+    margin-top: 20px;
+    padding: 6px ;
+    display: block ;
+    margin-left: auto ; 
+    margin-right: auto;
+    background-color: lightgreen;
+}
+body{
+    background-image: url('https://pastosenrollo.com.mx/imagenes/2014/09/pasto-alfombra-01.jpg');
+    background-attachment: fixed;
+}
+
